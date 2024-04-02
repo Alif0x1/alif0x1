@@ -16,19 +16,19 @@ I'm a lazy programmer from Bangladesh, currently working as a cybersecurity rese
 
 ## Get in Touch
 - 💬 Ask me about Anything 
-- 📫 How to reach me: Just message me on [Facebook](https://www.facebook.com/Ahamed1Alif) or [Twitter](https://twitter.com/Ahamed1Alif1)  
+- 📫 How to reach me: Just message me on [Facebook](https://www.facebook.com/Alif0x1) or [Twitter](https://twitter.com/Alif0x1)  
 
 ## Fun Fact
 I'm a lazy programmer! 😴
 
 ## GitHub Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=AhamedAlif&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Alif0x1&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## GitHub Streak Stats
-![GitHub streak stats](https://streak-stats.demolab.com/?user=AhamedAlif)
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Alif0x1)
 
 ## GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=AhamedAlif)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Alif0x1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhamedAlif)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alif0x1)](https://github.com/anuraghazra/github-readme-stats)
